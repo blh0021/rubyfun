@@ -1,10 +1,6 @@
 require 'java'
 
-java_import 'java.awt.Dimension'
-java_import 'java.awt.Rectangle'
-java_import 'java.awt.Robot'
 java_import 'java.awt.Toolkit'
-java_import 'java.awt.event.InputEvent'
 java_import 'java.awt.image.BufferedImage'
 java_import 'javax.imageio.ImageIO'
 
